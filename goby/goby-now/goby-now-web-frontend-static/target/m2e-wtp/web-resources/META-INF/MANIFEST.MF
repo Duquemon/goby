@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: goby-now-web-frontend-static Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: taisa
+Implementation-Vendor-Id: com.cafi.goby
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
